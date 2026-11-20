@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Entry program for news-image-20261120 (Python 3.13, standard library only).
 
-The repository holds the front-page image; this program copies it to the
-output directory the grader provides ($MAKEFUN_OUTPUT_DIR, else /output).
+Refreshed evening edition: the front page now covers the full day's news
+of Friday, 20 November 2026. The repository holds the front-page image;
+this program copies it to the output directory the grader provides
+($MAKEFUN_OUTPUT_DIR, else /output).
 """
 import hashlib
 import os
